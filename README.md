@@ -16,3 +16,4 @@ To deploy, run
 ```
 sudo sh setup.sh
 ```
+and follow the prompts.
