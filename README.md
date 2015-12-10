@@ -1,5 +1,6 @@
 # strongswan-automatic-deployment
 Automatic deployment of strongSwan VPN (IKEv1/v2) on Ubuntu 14.04 (Trusty). Currently uses strongSwan 5.3.5.
+Partially based on https://www.zeitgeist.se/2013/11/22/strongswan-howto-create-your-own-vpn/.
 
 The script was tested on the following servers:
 
