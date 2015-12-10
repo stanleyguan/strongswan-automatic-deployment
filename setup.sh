@@ -41,7 +41,7 @@ apt-get install build-essential -y
 aptitude install libgmp10 libgmp3-dev libssl-dev pkg-config libpcsclite-dev libpam0g-dev -y
 
 echo ""
-echo "${BLUE}Downloading strongSwan 5.3.5...${GRAY}"
+echo "${BLUE}Downloading strongSwan $version...${GRAY}"
 wget "http://download.strongswan.org/strongswan-$version.tar.bz2"
 
 echo "${BLUE}Unpacking...${GRAY}"
