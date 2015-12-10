@@ -9,3 +9,8 @@ The script was tested on the following servers:
 Interoperability with iOS 9 and OS X 10.11 (El Capitan) was tested.
 
 For instructions on client side configuration, visit https://wiki.strongswan.org/projects/strongswan/wiki/IOS_(Apple).
+
+To deploy, run
+```
+sudo sh setup.sh
+```
