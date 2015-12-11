@@ -10,7 +10,7 @@ Tested on the following servers:
 
 Interoperability with **iOS 9** (IKEv1/v2), **OS X 10.11 (El Capitan)** (IKEv1/v2) and **Windows 10** (IKEv2) was tested.
 
-For instructions on client side configuration, visit https://wiki.strongswan.org/projects/strongswan/wiki/IOS_(Apple).
+For instructions on client side configuration, see https://wiki.strongswan.org/projects/strongswan/wiki/IOS_(Apple) (for iOS and OS X) or https://wiki.strongswan.org/projects/strongswan/wiki/Windows7 (for Windows 7 or later).
 
 To deploy, run
 ```
