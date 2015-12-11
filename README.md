@@ -8,7 +8,7 @@ Tested on the following servers:
 * DigitalOcean, Ubuntu 14.04
 * Amazon EC2, Ubuntu 14.04
 
-Interoperability with **iOS 9** and **OS X 10.11 (El Capitan)** was tested.
+Interoperability with **iOS 9** (IKEv1/v2), **OS X 10.11 (El Capitan)** (IKEv1/v2) and **Windows 10** (IKEv2) was tested.
 
 For instructions on client side configuration, visit https://wiki.strongswan.org/projects/strongswan/wiki/IOS_(Apple).
 
